@@ -1,3 +1,3 @@
 .mode columns
 .header on
-SELECT * FROM tes;
+SELECT * FROM master;

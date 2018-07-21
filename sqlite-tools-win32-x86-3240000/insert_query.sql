@@ -1,3 +1,28 @@
-.mode columns
-.header on
-SELECT * FROM tes;
+INSERT INTO master(id, name, addr) VALUES(63,'カリフォルニアロール'		, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_california.png');
+INSERT INTO master(id, name, addr) VALUES(64,'コーン'				, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_corn.png');
+INSERT INTO master(id, name, addr) VALUES(65,'いかオクラ'			, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_ikaokura.png');
+INSERT INTO master(id, name, addr) VALUES(66,'いかオクラ納豆'			, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_ikaokura_natto.png');
+INSERT INTO master(id, name, addr) VALUES(67,'いくら'				, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_ikura.png');
+INSERT INTO master(id, name, addr) VALUES(68,'いなり（ごま入り）'		, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_inari.png');
+INSERT INTO master(id, name, addr) VALUES(69,'かんぴょう巻き'			, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_kanpyomaki.png');
+INSERT INTO master(id, name, addr) VALUES(70,'かっぱ巻き'			, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_kappamaki.png');
+INSERT INTO master(id, name, addr) VALUES(71,'から揚げ軍艦'			, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_karaage.png');
+INSERT INTO master(id, name, addr) VALUES(72,'から揚げ軍艦ガーリックソース'	, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_karaage_garlic.png');
+INSERT INTO master(id, name, addr) VALUES(73,'から揚げマヨ'			, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_karaage_mayo.png');
+INSERT INTO master(id, name, addr) VALUES(74,'まぐろ軍艦'			, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_maguro_1.png');
+INSERT INTO master(id, name, addr) VALUES(75,'まぐろユッケ'			, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_maguro_yukke.png');
+INSERT INTO master(id, name, addr) VALUES(76,'ねぎとろ納豆'			, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_nagitoro_natto.png');
+INSERT INTO master(id, name, addr) VALUES(77,'納豆'				, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_natto.png');
+INSERT INTO master(id, name, addr) VALUES(78,'納豆巻き'			, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_nattomaki.png');
+INSERT INTO master(id, name, addr) VALUES(79,'納豆巻き（ねぎ入り）'		, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_nattomaki_negi.png');
+INSERT INTO master(id, name, addr) VALUES(80,'大葉かにみそ'			, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_oba_kanimiso.png');
+INSERT INTO master(id, name, addr) VALUES(81,'サバの押し寿司'		, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_saba_oshizushi.png');
+INSERT INTO master(id, name, addr) VALUES(82,'シーフードサラダ'		, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_seafood_salada.png');
+INSERT INTO master(id, name, addr) VALUES(83,'たっぷりかにみそ'		, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_tappuri_kanimiso.png');
+INSERT INTO master(id, name, addr) VALUES(84,'鉄火巻き'			, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_tekkamaki.png');
+INSERT INTO master(id, name, addr) VALUES(85,'とびこ'				, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_tobiko.png');
+INSERT INTO master(id, name, addr) VALUES(86,'ツナ＆コーン'			, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_tsuna_corn.png');
+INSERT INTO master(id, name, addr) VALUES(87,'ツナサラダ'			, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_tsuna_salada.png');
+INSERT INTO master(id, name, addr) VALUES(88,'わさびえんがわ'			, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_wasabi_engawa.png');
+INSERT INTO master(id, name, addr) VALUES(89,'生しらす'			, 'http://www.hamazushi.com/hamazushi/menu/images/gunkan/pho_namashirasu.png');
+
